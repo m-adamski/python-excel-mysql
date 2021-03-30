@@ -2,6 +2,8 @@
 
 The tool is used to generate MySQL queries to add or update data based on an Excel spreadsheet.
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 ```commandline
